@@ -1,0 +1,99 @@
+/*<!-- Name: Mayurkumar Yadav | Student ID: 8911436 -->*/
+body
+{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    font:normal normal normal 14px/1.5 Verdana, Arial, Helvetica, sans-serif;
+}
+
+.structural
+{
+    margin: 10px;
+    padding: 10px;
+
+}
+
+h1
+{
+    color: blue;
+    font-size: medium;
+}
+
+h2
+{
+    color: red;
+    font-size: medium;
+}
+
+main
+{
+    height: 70vh;
+}
+
+img
+{
+    border: 3px solid black;
+    width: 90%;
+    height: 80%;
+   
+}
+
+#firstimage
+{
+    background-color: brown;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+    float: right;
+    
+}
+
+#secondimage
+{
+    background-color: brown;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+    float: left;
+}
+
+section
+{
+    clear: both;
+}
+
+figcaption
+{
+    font-weight: lighter;
+    font-size: medium;
+    color: blueviolet;
+    padding: 5px;
+}
+
+a
+{
+    color: blanchedalmond;
+}
+
+a:hover
+{
+    color: brown;
+}
+
+ul li
+{
+    list-style-type: square;
+    line-height: 1.6;
+}
+
+header
+{
+    background-color: aqua;
+}
+footer
+{
+    background-color: aqua;
+}
